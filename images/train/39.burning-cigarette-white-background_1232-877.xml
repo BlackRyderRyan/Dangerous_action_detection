@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>39.burning-cigarette-white-background_1232-877.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\39.burning-cigarette-white-background_1232-877.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>264</ymin>
+			<xmax>351</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+</annotation>

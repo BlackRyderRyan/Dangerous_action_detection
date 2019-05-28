@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>54.best_smartphone_uk_smartphones_samsung_galaxy_s10_plus.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\54.best_smartphone_uk_smartphones_samsung_galaxy_s10_plus.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>39</ymin>
+			<xmax>752</xmax>
+			<ymax>650</ymax>
+		</bndbox>
+	</object>
+</annotation>

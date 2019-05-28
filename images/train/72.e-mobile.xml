@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>72.e-mobile.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\72.e-mobile.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>17</ymin>
+			<xmax>621</xmax>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>66._MG_4584.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\66._MG_4584.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>739</xmin>
+			<ymin>166</ymin>
+			<xmax>1275</xmax>
+			<ymax>1198</ymax>
+		</bndbox>
+	</object>
+</annotation>

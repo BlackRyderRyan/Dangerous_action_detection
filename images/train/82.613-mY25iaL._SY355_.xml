@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>82.613-mY25iaL._SY355_.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\82.613-mY25iaL._SY355_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>334</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>84</ymin>
+			<xmax>325</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

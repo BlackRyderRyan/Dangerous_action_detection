@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>31.uploads%252Fcard%252Fimage%252F752267%252Fab8d4712-be77-477b-ab2f-94e470b0fe11.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\31.uploads%252Fcard%252Fimage%252F752267%252Fab8d4712-be77-477b-ab2f-94e470b0fe11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>950</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>8</ymin>
+			<xmax>852</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

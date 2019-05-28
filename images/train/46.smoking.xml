@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>46.smoking.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\46.smoking.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>968</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>223</ymin>
+			<xmax>726</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

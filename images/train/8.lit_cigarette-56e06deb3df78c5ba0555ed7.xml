@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>8.lit_cigarette-56e06deb3df78c5ba0555ed7.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\8.lit_cigarette-56e06deb3df78c5ba0555ed7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>511</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>191</ymin>
+			<xmax>504</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

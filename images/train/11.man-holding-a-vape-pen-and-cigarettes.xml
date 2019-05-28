@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>11.man-holding-a-vape-pen-and-cigarettes.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\11.man-holding-a-vape-pen-and-cigarettes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>724</width>
+		<height>482</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>139</ymin>
+			<xmax>601</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

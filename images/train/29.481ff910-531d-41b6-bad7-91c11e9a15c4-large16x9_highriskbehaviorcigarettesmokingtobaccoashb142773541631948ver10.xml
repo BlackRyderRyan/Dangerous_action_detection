@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>29.481ff910-531d-41b6-bad7-91c11e9a15c4-large16x9_highriskbehaviorcigarettesmokingtobaccoashb142773541631948ver10.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\29.481ff910-531d-41b6-bad7-91c11e9a15c4-large16x9_highriskbehaviorcigarettesmokingtobaccoashb142773541631948ver10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>986</width>
+		<height>555</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>154</ymin>
+			<xmax>986</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

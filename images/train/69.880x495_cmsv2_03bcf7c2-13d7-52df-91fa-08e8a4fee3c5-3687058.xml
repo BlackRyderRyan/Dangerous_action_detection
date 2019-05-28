@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>69.880x495_cmsv2_03bcf7c2-13d7-52df-91fa-08e8a4fee3c5-3687058.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\69.880x495_cmsv2_03bcf7c2-13d7-52df-91fa-08e8a4fee3c5-3687058.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>880</width>
+		<height>495</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>17</ymin>
+			<xmax>562</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

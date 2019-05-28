@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>73.shutterstock_152877845.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\73.shutterstock_152877845.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>669</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>479</ymin>
+			<xmax>860</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

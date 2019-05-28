@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>47.170530122318-smoldering-cigarette-exlarge-169.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\47.170530122318-smoldering-cigarette-exlarge-169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>136</ymin>
+			<xmax>586</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

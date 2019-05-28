@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>19.montreal-que-may-05-2015-a-montrealer-lights-up-a-ciga1.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\19.montreal-que-may-05-2015-a-montrealer-lights-up-a-ciga1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>82</ymin>
+			<xmax>654</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

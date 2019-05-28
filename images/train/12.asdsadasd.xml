@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>12.asdsadasd.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\12.asdsadasd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1620</width>
+		<height>1078</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>621</xmin>
+			<ymin>147</ymin>
+			<xmax>1020</xmax>
+			<ymax>967</ymax>
+		</bndbox>
+	</object>
+</annotation>

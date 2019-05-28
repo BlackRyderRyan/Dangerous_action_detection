@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>56.cigarette-in-an-ashtray.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\56.cigarette-in-an-ashtray.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1100</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>296</ymin>
+			<xmax>965</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

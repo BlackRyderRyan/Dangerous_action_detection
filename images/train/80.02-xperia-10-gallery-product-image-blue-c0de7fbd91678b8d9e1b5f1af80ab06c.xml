@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>80.02-xperia-10-gallery-product-image-blue-c0de7fbd91678b8d9e1b5f1af80ab06c.png</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\80.02-xperia-10-gallery-product-image-blue-c0de7fbd91678b8d9e1b5f1af80ab06c.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>330</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>37</ymin>
+			<xmax>246</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

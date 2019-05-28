@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>29.smartphone-9-min.png</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\29.smartphone-9-min.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>712</width>
+		<height>732</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>4</ymin>
+			<xmax>461</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>

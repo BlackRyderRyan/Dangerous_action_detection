@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>83.9.2-smart-min.png</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\83.9.2-smart-min.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>799</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>1</ymin>
+			<xmax>793</xmax>
+			<ymax>708</ymax>
+		</bndbox>
+	</object>
+</annotation>
