@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>20190529122520.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\test\20190529122520.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>425</ymin>
+			<xmax>1024</xmax>
+			<ymax>1470</ymax>
+		</bndbox>
+	</object>
+</annotation>

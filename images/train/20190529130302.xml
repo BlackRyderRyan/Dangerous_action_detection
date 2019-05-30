@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20190529130302.jpg</filename>
+	<path>D:\Projects\Dangerous_action_detection\images\train\20190529130302.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2514</width>
+		<height>2442</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1608</xmin>
+			<ymin>1031</ymin>
+			<xmax>2463</xmax>
+			<ymax>1620</ymax>
+		</bndbox>
+	</object>
+</annotation>
