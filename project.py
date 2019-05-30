@@ -9,15 +9,15 @@ sys.path.append("D:/Projects/Object-Detection-API-Project/models-master/models-m
 from utils import label_map_util
 from utils import visualization_utils as vis_util
 
-VIDEO_NAME = 'FUNNY_CATS .mp4'
+# VIDEO_NAME = 'FUNNY_CATS .mp4'
 
 CWD_PATH = os.getcwd()
 
-PATH_TO_CKPT = os.path.join(CWD_PATH, 'trained-inference-graphs', 'output_inference_graph_v1.pb', 'frozen_inference_graph.pb')
+PATH_TO_CKPT = os.path.join(CWD_PATH, 'model_v1.0_summary', 'output_inference_graph', 'frozen_inference_graph.pb')
 
 PATH_TO_LABELS = os.path.join(CWD_PATH, 'annotations', 'labelmap.pbtxt')
 
-PATH_TO_VIDEO = os.path.join(CWD_PATH, VIDEO_NAME)
+# PATH_TO_VIDEO = os.path.join(CWD_PATH, VIDEO_NAME)
 
 NUM_CLASSES = 2
 

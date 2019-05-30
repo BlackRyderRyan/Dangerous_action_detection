@@ -14,13 +14,13 @@
 	<object>
 		<name>cigarette</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>136</ymin>
-			<xmax>586</xmax>
-			<ymax>310</ymax>
+			<xmin>4</xmin>
+			<ymin>138</ymin>
+			<xmax>589</xmax>
+			<ymax>305</ymax>
 		</bndbox>
 	</object>
 </annotation>
