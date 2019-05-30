@@ -14,4 +14,4 @@ sys.path.append("D:/Projects/Object-Detection-API-Project/models-master/models-m
 
 把里面的路径改为你下载的tensorflow models目录中research/object_detection
 
-然后即可直接运行！
+即可直接运行！
