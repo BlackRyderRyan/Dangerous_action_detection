@@ -1,229 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2583ac8f-c4f8-4e2a-834c-da6fa5c5d70d" name="Default Changelist" comment="">
+    <list default="true" id="2583ac8f-c4f8-4e2a-834c-da6fa5c5d70d" name="Default Changelist" comment="model_v1.0">
+      <change afterPath="$PROJECT_DIR$/project_v3.0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotations/test.record" beforeDir="false" afterPath="$PROJECT_DIR$/annotations/test.record" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotations/test_labels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/annotations/test_labels.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotations/train.record" beforeDir="false" afterPath="$PROJECT_DIR$/annotations/train.record" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotations/train_labels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/annotations/train_labels.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/1.Cigarette_DS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/test/1.Cigarette_DS.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/2.4EFBWSDVPYI6RPNBDDSTUREKCQ.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/test/2.4EFBWSDVPYI6RPNBDDSTUREKCQ.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/3.xstack-of-cigarettes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/3.xstack-of-cigarettes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/4.cigs-smuggling-ny.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/test/4.cigs-smuggling-ny.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/5.Cigarette-Smoke-Affect-Grow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/test/5.Cigarette-Smoke-Affect-Grow.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/6.150513-smoking-cigarette-jpo-508p_d58f1abb2c671a81b2ebca7a28816dc3.fit-760w.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/6.150513-smoking-cigarette-jpo-508p_d58f1abb2c671a81b2ebca7a28816dc3.fit-760w.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/86.07-iphone-xs-and-iphone-xs-max.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/86.07-iphone-xs-and-iphone-xs-max.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/87.https%3A%2F%2Fblogs-images.forbes.com%2Fgordonkelly%2Ffiles%2F2019%2F03%2FSamsung-Galaxy-Note-10-visualized-in-new-3D-renders.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/87.https%3A%2F%2Fblogs-images.forbes.com%2Fgordonkelly%2Ffiles%2F2019%2F03%2FSamsung-Galaxy-Note-10-visualized-in-new-3D-renders.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/88.50246_1558629009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/88.50246_1558629009.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/89.522644-pixel-3-screen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/89.522644-pixel-3-screen.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/91.app.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/91.app.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/98.28techfix1-articleLarge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test/98.28techfix1-articleLarge.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/1.1551208882-samsung-galaxy-s10e-smartphone-1550695757.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/1.1551208882-samsung-galaxy-s10e-smartphone-1550695757.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/10.smoking-cigarettes-stop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/10.smoking-cigarettes-stop.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/101.105499610-1539206076683smoking.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/101.105499610-1539206076683smoking.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/102.james-bond-cigarettes-450x299.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/102.james-bond-cigarettes-450x299.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/11.man-holding-a-vape-pen-and-cigarettes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/11.man-holding-a-vape-pen-and-cigarettes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/114.no-smoking-e1482390481835.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/114.no-smoking-e1482390481835.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/118.Cigarette_Hands_1296x728-header-1296x728.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/118.Cigarette_Hands_1296x728-header-1296x728.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/12.Smoking+cigarettes+MGN.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/12.Smoking+cigarettes+MGN.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/12.asdsadasd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/12.asdsadasd.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/124.cigarette-smoking-snake.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/124.cigarette-smoking-snake.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/14._MG_5256.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/14._MG_5256.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/140.know_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/140.know_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/16.2014-09-23-iphone6-gallery-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/16.2014-09-23-iphone6-gallery-1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/16.49d54f5898c8457999339e41119ce1d5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/16.49d54f5898c8457999339e41119ce1d5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/18.cigarette_02.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/18.cigarette_02.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/19.montreal-que-may-05-2015-a-montrealer-lights-up-a-ciga1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/19.montreal-que-may-05-2015-a-montrealer-lights-up-a-ciga1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/2.V30-medium01.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/2.V30-medium01.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/20.Cigarette_%28Primitive_Plus%29.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/20.Cigarette_%28Primitive_Plus%29.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/20.Karbonn-Black-Aura-1-16GB-SDL907221381-1-eac6a.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/20.Karbonn-Black-Aura-1-16GB-SDL907221381-1-eac6a.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/22.BLOG-1024x600-Close-up-shot-of-iPhone-6-hand-held-by-woman-Koszalin-Poland-iStock518521481.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/22.BLOG-1024x600-Close-up-shot-of-iPhone-6-hand-held-by-woman-Koszalin-Poland-iStock518521481.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/22.Cropped-Image-Of-Hand-Holding-Burning-Cigarette.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/22.Cropped-Image-Of-Hand-Holding-Burning-Cigarette.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/23.3225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/23.3225.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/23.ae2fd8adb17f5050a3297276af24c172-768-80.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/23.ae2fd8adb17f5050a3297276af24c172-768-80.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/24.12-Everyday-Habits-that-Reduce-Your-Risk-of-Arthritis-Symptoms.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/24.12-Everyday-Habits-that-Reduce-Your-Risk-of-Arthritis-Symptoms.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/25.b4e18cd02ebe74dfd5fbf178853c08e9e1118cfb.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/25.b4e18cd02ebe74dfd5fbf178853c08e9e1118cfb.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/26.51v5fxR0VdL._SX425_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/26.51v5fxR0VdL._SX425_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/26.Smoking-616023.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/26.Smoking-616023.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/27.clovescigarettes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/27.clovescigarettes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/27.panasonic-eluga-x1-smartphone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/27.panasonic-eluga-x1-smartphone.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/28.cigarette_smoke-56b368813df78cdfa004d004.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/28.cigarette_smoke-56b368813df78cdfa004d004.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/28.eda3724b-27e8-46fe-90cd-3a84678a9b31_1.25d0865f300a0ec45affe204985f243b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/28.eda3724b-27e8-46fe-90cd-3a84678a9b31_1.25d0865f300a0ec45affe204985f243b.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/29.481ff910-531d-41b6-bad7-91c11e9a15c4-large16x9_highriskbehaviorcigarettesmokingtobaccoashb142773541631948ver10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/29.481ff910-531d-41b6-bad7-91c11e9a15c4-large16x9_highriskbehaviorcigarettesmokingtobaccoashb142773541631948ver10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/29.smartphone-9-min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/29.smartphone-9-min.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/3.bvode8sl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/3.bvode8sl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/30.Cigarette-s_x.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/30.Cigarette-s_x.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/31.Metal-Cigarette-Box-Case-Portable-Pack-20-Tobacco-Stainless-Steel-Tobacco-Case-Holder-Storage-Container.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/31.Metal-Cigarette-Box-Case-Portable-Pack-20-Tobacco-Stainless-Steel-Tobacco-Case-Holder-Storage-Container.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/31.uploads%252Fcard%252Fimage%252F752267%252Fab8d4712-be77-477b-ab2f-94e470b0fe11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/31.uploads%252Fcard%252Fimage%252F752267%252Fab8d4712-be77-477b-ab2f-94e470b0fe11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/33.dseifert_170907_1972_0001.0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/33.dseifert_170907_1972_0001.0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/34.51D0lbheb7L._SX425_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/34.51D0lbheb7L._SX425_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/34.577878-galaxy-s9-vs-s9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/34.577878-galaxy-s9-vs-s9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/36.honor-8-smart-mobile-phone-large-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/36.honor-8-smart-mobile-phone-large-1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/36.menthol-01__82350.1503660114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/36.menthol-01__82350.1503660114.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/37.Y5-Lite-Black.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/37.Y5-Lite-Black.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/37.cigarettes_061915getty.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/37.cigarettes_061915getty.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/38.cigarette-2723433_1920.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/38.cigarette-2723433_1920.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/38.nokia-7-1-review-1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/38.nokia-7-1-review-1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/39.burning-cigarette-white-background_1232-877.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/39.burning-cigarette-white-background_1232-877.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/4.417MNhBZfnL._SY300_QL70_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/4.417MNhBZfnL._SY300_QL70_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/40.vrvdlwb8gkrgpnc8aspc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/40.vrvdlwb8gkrgpnc8aspc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/41.r_2_med_MDAWSJW5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/41.r_2_med_MDAWSJW5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/41.smartphone-tp-top-2x1-lowres1024-7951.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/41.smartphone-tp-top-2x1-lowres1024-7951.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/42.whatsinside_ecig.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/42.whatsinside_ecig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/43.Featured-Image-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/43.Featured-Image-6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/43.resized_320x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/43.resized_320x240.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/44.104377564-iPhone_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/44.104377564-iPhone_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/44.1200px-Chesterfield_Blue_German.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/44.1200px-Chesterfield_Blue_German.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/45.iivznydyo0wfae0cic6m.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/45.iivznydyo0wfae0cic6m.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/46.smoking.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/46.smoking.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/47.170530122318-smoldering-cigarette-exlarge-169.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/47.170530122318-smoldering-cigarette-exlarge-169.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/47.51bvItLxhqL.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/47.51bvItLxhqL.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/48.57af7dfe0c2d2.image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/48.57af7dfe0c2d2.image.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/5.1101002027.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/5.1101002027.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/50.519395-iphone-xs-max.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/50.519395-iphone-xs-max.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/50.cigarette-tax.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/50.cigarette-tax.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/51.E-Cigarette_CDC_FB.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/51.E-Cigarette_CDC_FB.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/54.best_smartphone_uk_smartphones_samsung_galaxy_s10_plus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/54.best_smartphone_uk_smartphones_samsung_galaxy_s10_plus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/55.asus-zenfone-6-camera-300x225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/55.asus-zenfone-6-camera-300x225.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/56.cigarette-in-an-ashtray.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/56.cigarette-in-an-ashtray.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/56.mob2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/56.mob2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/57.1547196182-cigg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/57.1547196182-cigg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/57.DSCF2550-1024x683.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/57.DSCF2550-1024x683.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/58.190108-best-budget-smartphone-pocophone-honor-8x-17-3000x1688.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/58.190108-best-budget-smartphone-pocophone-honor-8x-17-3000x1688.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/59.106-google-pixel-3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/59.106-google-pixel-3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/60.smartphone-highways-england.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/60.smartphone-highways-england.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/62.Cigarette.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/62.Cigarette.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/63.94571311_s-792x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/63.94571311_s-792x300.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/64.best_smartphone_uk_smartphones_xiaomi_pocophone_f1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/64.best_smartphone_uk_smartphones_xiaomi_pocophone_f1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/66._MG_4584.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/66._MG_4584.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/67.5-best-phones-for-privacy-security.1280x600.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/67.5-best-phones-for-privacy-security.1280x600.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/67.cigarettes-05.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/67.cigarettes-05.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/69.880x495_cmsv2_03bcf7c2-13d7-52df-91fa-08e8a4fee3c5-3687058.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/69.880x495_cmsv2_03bcf7c2-13d7-52df-91fa-08e8a4fee3c5-3687058.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/69.Smoking%2C%20cigarettes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/69.Smoking%2C%20cigarettes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/7.25512191193_fcacfb38cd_k.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/7.25512191193_fcacfb38cd_k.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/72.e-mobile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/72.e-mobile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/73.shutterstock_152877845.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/73.shutterstock_152877845.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/74.5bc504a9ea92b10506418fc8-750-375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/74.5bc504a9ea92b10506418fc8-750-375.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/75.Huawei-y7-2019-Black.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/75.Huawei-y7-2019-Black.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/76.1101001852_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/76.1101001852_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/78.102aa114-70f5-49a8-8b87-db22a3a11437_1.8df2adcfd234298357766cb61bc12adb.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/78.102aa114-70f5-49a8-8b87-db22a3a11437_1.8df2adcfd234298357766cb61bc12adb.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/8.asus-zenfone-5z-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/8.asus-zenfone-5z-5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/8.lit_cigarette-56e06deb3df78c5ba0555ed7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/8.lit_cigarette-56e06deb3df78c5ba0555ed7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/80.02-xperia-10-gallery-product-image-blue-c0de7fbd91678b8d9e1b5f1af80ab06c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/80.02-xperia-10-gallery-product-image-blue-c0de7fbd91678b8d9e1b5f1af80ab06c.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/81.HuaeweiP30Pro-4-920x613.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/81.HuaeweiP30Pro-4-920x613.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/81.heets_71236_20181217001527.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/81.heets_71236_20181217001527.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/82.1200px-Fotos_produzidas_pelo_Senado_%2830554309793%29.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/82.1200px-Fotos_produzidas_pelo_Senado_%2830554309793%29.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/82.613-mY25iaL._SY355_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/82.613-mY25iaL._SY355_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/83.9.2-smart-min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/83.9.2-smart-min.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/84.Novelty_Cigarettes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/84.Novelty_Cigarettes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/84.asdfsdaf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/84.asdfsdaf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/85.Google_3a_aka_Sargo_Black_lrg1_en.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/85.Google_3a_aka_Sargo_Black_lrg1_en.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/9.08wmt-articleLarge-v2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/9.08wmt-articleLarge-v2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/9.614281-oneplus-6t.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/9.614281-oneplus-6t.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/91.cigarette-photoshop-psds.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/91.cigarette-photoshop-psds.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/93.5beda10248eb12099e57b817-750-500.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/93.5beda10248eb12099e57b817-750-500.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/95.a-woman-using-an-ecigarette.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/96.cigarettes-smuggling-agen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/images/train/96.cigarettes-smuggling-agen.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/97.Cigarettes_Fox_NOAA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/train/97.Cigarettes_Fox_NOAA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.py" beforeDir="false" afterPath="$PROJECT_DIR$/project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained-inference-graphs/output_inference_graph_v1.pb/checkpoint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained-inference-graphs/output_inference_graph_v1.pb/frozen_inference_graph.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained-inference-graphs/output_inference_graph_v1.pb/model.ckpt.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained-inference-graphs/output_inference_graph_v1.pb/model.ckpt.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained-inference-graphs/output_inference_graph_v1.pb/model.ckpt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained-inference-graphs/output_inference_graph_v1.pb/pipeline.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trained-inference-graphs/output_inference_graph_v1.pb/saved_model/saved_model.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/checkpoint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/events.out.tfevents.1559051143.LAPTOP-7HB8PQCA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/graph.pbtxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-10990.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-10990.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-10990.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-13824.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-13824.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-13824.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-16673.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-16673.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-16673.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-5308.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-5308.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-5308.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-8155.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-8155.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/model.ckpt-8155.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training/pipeline.config" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -232,12 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="1254">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -245,7 +25,38 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project_v3.0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3876">
+              <caret line="204" selection-start-line="204" selection-end-line="204" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PyCharm Projects/fatigue_test/project_v2.0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="485">
+              <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -256,16 +67,21 @@
         <option value="$PROJECT_DIR$/generate_tfrecord.py" />
         <option value="$PROJECT_DIR$/annotations/labelmap.pbtxt" />
         <option value="$PROJECT_DIR$/training/faster_rcnn_inception_v2_coco.config" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/../PyCharm Projects/fatigue_test/project_v2.0.py" />
+        <option value="$PROJECT_DIR$/project_v3.0.py" />
         <option value="$PROJECT_DIR$/project.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
+    <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -291,7 +107,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -350,29 +166,56 @@
       <workItem from="1559110145441" duration="2400000" />
       <workItem from="1559138161359" duration="2126000" />
       <workItem from="1559182756771" duration="203000" />
-      <workItem from="1559188100921" duration="1592000" />
+      <workItem from="1559188100921" duration="3887000" />
+      <workItem from="1559226702942" duration="151000" />
+      <workItem from="1559357152600" duration="719000" />
+      <workItem from="1559401475058" duration="279000" />
+      <workItem from="1559539624921" duration="80000" />
+      <workItem from="1559541461375" duration="754000" />
     </task>
+    <task id="LOCAL-00001" summary="model_v1.0">
+      <created>1559192881056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559192881056</updated>
+    </task>
+    <task id="LOCAL-00002" summary="model_v1.0">
+      <created>1559193241895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559193241895</updated>
+    </task>
+    <task id="LOCAL-00003" summary="model_v1.0">
+      <created>1559193825754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559193825754</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14404000" />
+    <option name="totallyTimeSpent" value="18682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.269437" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.288874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33002833" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23512748" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -387,18 +230,54 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="model_v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="model_v1.0" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Dangerous_action_detection$project.coverage" NAME="project Coverage Results" MODIFIED="1559192752195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Dangerous_action_detection$project.coverage" NAME="project Coverage Results" MODIFIED="1559542192547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/export_inference_graph.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -436,10 +315,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="304">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/picamera/Object_detection_picamera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2574">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="e#862#871#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyCharm Projects/fatigue_test/project_v2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_v3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3876">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="1254">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
